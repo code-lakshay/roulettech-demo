@@ -10,7 +10,7 @@ function Homepage() {
     <div style={homeContainerStyle}>
       <>
         <main role="madin" style={{ marginTop: 50 }}>
-          {/* Main jumbotron for a primary marketing message or call to action */}
+          {}
           <div className="jumbotron">
             <div className="container">
               <h1 className="display-3">Welcome to My Demo!</h1>
@@ -55,7 +55,7 @@ function Homepage() {
             <hr />
           </div>
 
-          {/* /container */}
+          {}
         </main>
         <footer className="container">
           <p>© Lakshay Madaan Demo</p>

@@ -9,7 +9,7 @@ function Loginpage() {
 
   useEffect(() => {
     if (containerRef.current) {
-      // DOM is updated, you can safely manipulate it
+      // DOM is updated
       containerRef.current.className = isActive
         ? "form-container left-right"
         : "form-container";
